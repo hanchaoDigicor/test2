@@ -1,13 +1,13 @@
 <?php
-
+use Controller/abc.php;
 class c{
-function d(){
+public function d($a){
 
-  $f = $g;
+  $fg = $a;
 }
-  function adasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdads(){
+  public function adasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdadsadasdasdads($a){
 
-    
+    $test = $bsd;
   }
 }
 
